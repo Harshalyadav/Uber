@@ -1,0 +1,7 @@
+install nextjs
+npx create-react-app@latest
+
+go page folder select index.js remove all elements inside style container
+
+import in _app.js for nextjs
+import "mapbox-gl/dist/mapbox-gl.css"
